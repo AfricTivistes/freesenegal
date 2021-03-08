@@ -39,11 +39,12 @@ params:
   Things:
     - logo: fa fa-hand-rock
       title: "#FreeSenegal"
-      twitters: https://twitter.com/cypher007/lists/1368992349238493187
+      twitters: https://twitter.com/cypher007/lists/freesenegal-18580?ref_src=twsrc%5Etfw
       
     - logo: fa fa-university
       title: #Kebetu Sénégal
       twitters: https://twitter.com/cypher007/lists/42027343?s=20
+
 
     - logo: fa fa-globe
       title: Les Médias
