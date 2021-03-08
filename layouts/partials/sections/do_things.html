@@ -1,0 +1,31 @@
+{{ if .Site.Params.usedothings }}
+<section>
+    <div class="do-things text-center" id="do-things">
+        <div class="container">
+            <div class="things-i-do text-primary py-3 font-weight-bold">
+                Curateur
+            </div>
+
+            <div class="do-things-card">
+                <div class="row pb-2 justify-content-center">
+                    {{ range .Site.Params.Things }}
+                    <!-- Thing 1 -->
+                    <div class="col-lg-4 col-md-4">
+                        <div class="things shadow rounded pt-4 my-2 mb-4 bg-warning">
+                            <i class="{{ .logo }} fa-3x" width="3em" height="3em"></i>
+                            <div class="pt-2 font-weight-bold">
+                                {{ .title }}
+                            </div>
+                            <div class="pt-4 m-0">
+                                <a class="twitter-timeline" data-dnt="true"
+                                    href="{{ .twitters }}">A Twitter List by TwitterDev</a>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

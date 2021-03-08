@@ -1,0 +1,57 @@
+baseURL: "/"
+languageCode: "fr-fr"
+title: "AfricTivistes"
+theme: "hugo-profile"
+
+googleanalytics: UA-xxxxxxx-x
+disqusShortname:
+Paginate: 3
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+params:
+  favicon: "/images/logo.svg"
+  description: "Curateur des Twitters #FreeSenegal"
+  copyright: "2021"
+
+  # Navbar Menus
+  customMenus:
+
+  # social
+  name: "#FreeSenegal"
+  github: ""
+  linkedin: ""
+  twitter: "https://twitter.com/AFRICTIVISTES"
+  instagram: ""
+  facebook: "https://www.facebook.com/africtivistes"
+
+  # About
+  profile_image: "/images/freesenegal.png"
+  descripe_l1_person: "La démocratie sénégalaise en danger: Arrestations tous azimuts, Menaces sur les droits humains et sur la liberté de la presse"
+  descripe_l2_person: "Suivez l'évolution de la situation avec la curation de #FreeSenegal par africtivistes, pour lutter contre les Fakenews."
+  useresume: true
+  resume: ""
+
+  # Things I do
+  usedothings: true
+  Things:
+    - logo: fa fa-hand-rock
+      title: "#FreeSenegal"
+      twitters: https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw
+      
+    - logo: fa fa-university
+      title: Gouvernement
+      twitters: https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw
+
+    - logo: fa fa-globe
+      title: Internationaux
+      twitters: https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw
+
+  #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
+  showdescription: true
+
+Author:
+  name: "AfricTivistes"
+  website: "https://www.africtivistes.org"
