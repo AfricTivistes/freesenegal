@@ -42,11 +42,11 @@ params:
       twitters: https://twitter.com/cypher007/lists/freesenegal-18580?ref_src=twsrc%5Etfw
       
     - logo: fa fa-university
-      title: #Kebetu Sénégal
+      title: "#Kebetu Sénégal"
       twitters: https://twitter.com/cypher007/lists/kebetu?ref_src=twsrc%5Etfw
 
     - logo: fa fa-globe
-      title: Les Médias
+      title: "Les Médias"
       twitters: https://twitter.com/cypher007/lists/la-webpolitique?ref_src=twsrc%5Etfw
 
   #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
