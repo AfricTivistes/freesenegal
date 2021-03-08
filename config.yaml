@@ -42,12 +42,12 @@ params:
       twitters: https://twitter.com/cypher007/lists/la-webpolitique?ref_src=twsrc%5Etfw
       
     - logo: fa fa-university
-      title: Gouvernement
-      twitters: https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw
+      title: #Kebetu Sénégal
+      twitters: https://twitter.com/i/lists/42027343
 
     - logo: fa fa-globe
-      title: Internationaux
-      twitters: https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw
+      title: Les Médias
+      twitters: https://twitter.com/i/lists/105265902
 
   #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
   showdescription: true
