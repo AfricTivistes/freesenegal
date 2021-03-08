@@ -39,15 +39,15 @@ params:
   Things:
     - logo: fa fa-hand-rock
       title: "#FreeSenegal"
-      twitters: https://twitter.com/cypher007/lists/la-webpolitique?ref_src=twsrc%5Etfw
+      twitters: https://twitter.com/i/lists/1368992349238493187
       
     - logo: fa fa-university
       title: #Kebetu Sénégal
-      twitters: https://twitter.com/i/lists/42027343
+      twitters: https://twitter.com/i/lists/42027343?s=20
 
     - logo: fa fa-globe
       title: Les Médias
-      twitters: https://twitter.com/i/lists/105265902
+      twitters: https://twitter.com/cypher007/lists/la-webpolitique?ref_src=twsrc%5Etfw
 
   #blog ( Description for seo. If you want to show description in your listing or single page, let's make it true)
   showdescription: true
