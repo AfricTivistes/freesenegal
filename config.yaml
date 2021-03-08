@@ -26,11 +26,12 @@ params:
   twitter: "https://twitter.com/hashtag/FreeSenegal?src=hashtag_click&f=live"
   instagram: ""
   facebook: "https://www.facebook.com/africtivistes"
+  Twitter: "<a class="twitter-hashtag-button" href="https://twitter.com/intent/tweet?button_hashtag=TwitterStories"> Tweeter avec #FreeSÉNÉGAL</a>"
 
   # About
   profile_image: "/images/freesenegal.png"
   descripe_l1_person: "La démocratie sénégalaise en danger: Arrestations tous azimuts, Menaces sur les droits humains et sur la liberté de la presse"
-  descripe_l2_person: "Suivez l'évolution de la situation avec la curation de #FreeSenegal par africtivistes, pour lutter contre les Fakenews."
+  descripe_l2_person: "Suivez l'évolution de la situation avec la curation de #FreeSenegal pour lutter contre les Fakenews."
   useresume: true
   resume: ""
 
