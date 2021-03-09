@@ -2,7 +2,7 @@
     <h1>Alerte Fakenews</h1>
     <form name="alertes" method="POST" data-netlify-recaptcha="true" data-netlify="true">
         <div class="form-row align-items-center">
-            <div class="col-sm-10 my-1">
+            <div class="col-sm-8 my-1">
                 <label class="sr-only" for="inlineFormInputGroupUsername">lien</label>
                 <div class="input-group">
                     <div class="input-group-prepend">
@@ -15,6 +15,9 @@
                     </div>
                     <input name="lien" type="text" class="form-control" id="lien" placeholder="Ajouter le lien d'une publication, pour demander sa vérification" required>
                 </div>
+            </div>
+            <div class="col-auto my-1">
+                <div data-netlify-recaptcha="true"></div>
             </div>
             <div class="col-auto my-1">
                 <button type="submit" class="btn btn-primary">Envoyer</button>
