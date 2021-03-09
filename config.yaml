@@ -18,6 +18,8 @@ params:
 
   # Navbar Menus
   customMenus:
+    - name: "Alertes"
+      Url: "/alerte"
 
   # social
   name: "#FreeSenegal"
